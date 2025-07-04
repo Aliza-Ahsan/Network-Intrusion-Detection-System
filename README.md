@@ -33,7 +33,7 @@ Each model was evaluated in terms of accuracy, and other metrics like precision,
 
 ![image](https://github.com/user-attachments/assets/8bbcdb9a-65ff-456c-aed5-ea3f10663a88)
 
-![image](https://github.com/user-attachments/assets/e0bb5e50-d2e8-49f7-86b1-67c306779172)
+![image](https://github.com/user-attachments/assets/bafad870-5ae6-48d0-9bf6-cc44e1ff98e7)
 
 ## Conclusion
 
