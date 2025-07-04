@@ -1,4 +1,3 @@
-# Network-Intrusion-Detection-System
 # Anomaly-Based Network Intrusion Detection System using Machine Learning
 
 ## Overview
